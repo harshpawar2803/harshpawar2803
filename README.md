@@ -15,8 +15,7 @@ RHCSA Certified Linux Administrator | AWS Certified Solutions Architect – Asso
 </p>
 
 <p align="center">
-<img src="<img width="1280" height="423" alt="gitbanner" src="https://github.com/user-attachments/assets/bdf041f2-9eba-433d-9fc0-91c2f8afe3a8" />
-" alt="Harsh Banner"/>
+  <img src="./gitbanner.png" alt="Harsh Banner" width="100%" />
 </p>
 
 <p align="center">
