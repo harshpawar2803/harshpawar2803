@@ -1,160 +1,232 @@
 <h1 align="center">Hi 👋, I'm Harsh Ganesh Pawar</h1>
 
 <h3 align="center">
-RHCSA Certified Linux Administrator | AWS Cloud & DevOps Enthusiast | MCA Student | Open to Work
+RHCSA Certified Linux Administrator | AWS Certified Solutions Architect – Associate | DevOps & Cloud Engineer | Open to Work
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Linux+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;RHCSA+Certified;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=RHCSA+Certified+Linux+Administrator;AWS+Certified+Solutions+Architect;DevOps+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Technologies!" />
 </div>
 
 ---
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=harshpawar2803&label=Profile%20Views&color=0e75b6&style=flat" alt="harshpawar2803" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harshpawar2803&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<p align="left">
+<p align="center">
+<img src="banner.png" alt="Harsh Banner"/>
+</p>
+
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&margin-w=15&margin-h=15"/>
 </a>
 </p>
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 MCA Student at MET Bhujbal Knowledge City, Nashik
-- 🏅 RHCSA Certified Linux Administrator
-- ☁️ Learning AWS Cloud & DevOps
-- 🐧 Passionate about Linux Administration
-- 🐳 Currently learning Docker, Kubernetes, Jenkins, Ansible & Terraform
-- 💻 Interested in Cloud Infrastructure & Automation
-- 📚 Always learning new technologies
-- 💼 Looking for Linux Administrator / Cloud Engineer / DevOps Engineer opportunities
-
----
-
-## 📂 Featured Projects
-
-### 🔹 InfraOps
-Linux Server Monitoring Dashboard built using Flask, Python and SQLite.
-
-### 🔹 CloudQueueX
-AWS Event-Driven Ticket Processing Platform using EC2, SQS, SNS, DynamoDB and CloudFormation.
-
-### 🔹 High Availability Web Application
-AWS Auto Scaling + Load Balancer deployment project.
-
-### 🔹 LAMP Server Setup
-Apache, MariaDB/MySQL and PHP deployment on RHEL Linux.
+- 🎓 MCA Graduate | MET Institute of Engineering, Nashik
+- 🏅 RHCSA (Red Hat Certified System Administrator)
+- ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🐧 Passionate about Linux Administration & Cloud Computing
+- 🚀 Building hands-on DevOps & Cloud Projects
+- 🐳 Working with Docker, Kubernetes, Jenkins, Git, GitHub, Ansible & Terraform
+- 📚 Currently improving Linux, Cloud and DevOps skills
+- 💼 Open to Linux Administrator, Cloud Engineer & DevOps Engineer roles
 
 ---
 
-## 📜 Certifications
+# 🏆 Certifications
 
-🏅 RHCSA (Red Hat Certified System Administrator)
+✅ RHCSA – Red Hat Certified System Administrator
 
-🚀 AWS Solutions Architect Associate 
+✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 
-☁️ AWS Academy Cloud Foundations
+✅ AWS Academy Cloud Foundations
 
-
+✅ AWS Academy Cloud Architecting
 
 ---
 
-## 📫 Contact Me
+# 💻 Tech Stack
 
-📧 harshpawar0328@gmail.com
+<p align="center">
 
-📱 +91 9096944522
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,git,github,bash,python,mysql,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 InfraOps
+
+Linux Infrastructure Monitoring Platform
+
+**Tech Stack**
+
+- Python
+- Flask
+- SQLite
+- Linux
+- Systemd
+- HTML
+- CSS
+
+📂 GitHub Repository
+
+https://github.com/harshpawar2803/infraops
+
+---
+
+## 🔹 CloudQueueX
+
+AWS Event-Driven Ticket Processing Platform
+
+**Services Used**
+
+- EC2
+- IAM
+- SQS
+- SNS
+- DynamoDB
+- CloudFormation
+
+---
+
+## 🔹 LAMP Server Setup
+
+Configured Apache, PHP & MariaDB on RHEL Linux.
+
+---
+
+## 🔹 High Availability Web Application
+
+AWS Auto Scaling + Load Balancer + EC2
+
+---
+
+# 🛠 Skills
+
+### Linux
+
+- User Management
+- Group Management
+- File Permissions
+- LVM
+- Package Management
+- Systemd
+- SSH
+- Firewalld
+- SELinux
+- Cron Jobs
+- Linux Troubleshooting
+
+### Cloud
+
+- EC2
+- VPC
+- IAM
+- S3
+- RDS
+- CloudFormation
+
+### DevOps
+
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- GitHub
+- Ansible
+- Terraform
+
+### Programming
+
+- Python
+- Bash
+- SQL
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpawar2803&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshpawar2803&theme=tokyo-night)](https://github.com/harshpawar2803)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/harshpawar28">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/harshpawar2803">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
+
+📧 Email : harshpawar0328@gmail.com
+
+📱 Phone : +91 9096944522
 
 📍 Nashik, Maharashtra, India
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/harshpawar28">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/harshpawar2803">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 🛠 Languages & Tools
-
-<p>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight" alt="Harsh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpawar2803&theme=tokyonight" alt="Harsh's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🎯 2026 Goals
+# 🎯 2026 Career Goals
 
 ✅ RHCSA Certified
 
-✅ Build Real DevOps Projects
+✅ AWS Certified Solutions Architect – Associate
 
-🔄 Master Docker
+🎯 Become RHCE Certified
 
-🔄 Master Kubernetes
+🎯 Master Kubernetes
 
-🔄 Learn Ansible
+🎯 Master Terraform
 
-🔄 Learn Terraform
+🎯 Build Enterprise DevOps Projects
 
-🔄 Earn AWS Solutions Architect Associate
-
-🎯 Get placed as Linux Administrator / Cloud Engineer / DevOps Engineer
+🎯 Become a Cloud & DevOps Engineer
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
 > **"Keep Learning. Keep Building. Keep Growing." 🚀**
 
-⭐ If you like my repositories, don't forget to star them!
+---
+
+<p align="center">
+
+### ⭐ If you like my repositories, don't forget to Star them ⭐
+
+</p>
