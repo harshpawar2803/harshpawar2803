@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:EE0000,100:FF9900&height=150&section=header"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=150&section=header"/>
+
 <h1 align="center">Harsh Pawar</h1>
 <h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;Linux • AWS • DevOps Engineer</h3>
 
@@ -178,4 +180,4 @@ push it, confirm it ran under the Actions tab (creates an "output" branch), THEN
 <p align="center"><i>"Keep learning. Keep building. Keep growing." 🚀</i></p>
 <p align="center">⭐ If any of these projects are useful to you, a star is always appreciated ⭐</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:FF9900,100:EE0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:EE0000&height=120&section=footer"/>
