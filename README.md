@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:EE0000,100:FF9900&height=150&section=header"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=150&section=header"/>
 
 <h1 align="center">Harsh Pawar</h1>
 <h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;Linux • AWS • DevOps Engineer</h3>
@@ -35,7 +36,7 @@ I'm an RHCSA Certified Linux Administrator and AWS Certified Solutions Architect
 - 🎓 MCA Graduate — MET Institute of Engineering, Nashik
 - 🏅 RHCSA — Red Hat Certified System Administrator
 - ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
-- 🔧 Comfortable across the infra lifecycle: provisioning → configuration → deployment → monitoring
+- 🔧 Hands-on experience with provisioning, configuration, deployment, monitoring, and troubleshooting Linux & AWS infrastructure
 - 💼 Open to **Linux Administrator**, **Cloud Engineer**, **AWS Engineer**, and **DevOps Engineer** roles
 
 ---
@@ -78,7 +79,7 @@ Linux infrastructure monitoring platform — tracks server health metrics and su
 
 **Tech Stack:** Python, Flask, SQLite, Linux, systemd
 
-🔗 [github.com/harshpawar2803/infraops](https://github.com/harshpawar2803/infraops)
+[![InfraOps Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=harshpawar2803&repo=infraops&theme=tokyonight)](https://github.com/harshpawar2803/infraops)
 
 ---
 
@@ -87,12 +88,16 @@ Event-driven ticket processing platform on AWS using a decoupled, queue-based ar
 
 **Tech Stack:** EC2, IAM, SQS, SNS, DynamoDB, CloudFormation
 
+🔗 *Repository coming soon*
+
 ---
 
 #### 🐧 LAMP Server Setup
 End-to-end Apache + PHP + MariaDB configuration on RHEL, including firewall rules, SELinux contexts, and service hardening.
 
 **Tech Stack:** RHEL, Apache, PHP, MariaDB
+
+🔗 *Repository coming soon*
 
 ---
 
@@ -101,7 +106,7 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 
 **Tech Stack:** EC2, Auto Scaling, ELB
 
----
+🔗 *Repository coming soon*
 
 ---
 
