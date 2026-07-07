@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=180&section=header&text=Harsh%20Pawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RHCSA%20%7C%20AWS%20SAA%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=200&section=header&text=Harsh%20Pawar&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=RHCSA%20|%20AWS%20SAA%20|%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=16"/>
 
 <h1 align="center">Harsh Pawar</h1>
 <h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;Linux • AWS • DevOps Engineer</h3>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="./gitbanner.jpeg" alt="Harsh Pawar — RHCSA & AWS Certified DevOps Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/harshpawar2803/harshpawar2803/main/gitbanner.jpeg" alt="Harsh Pawar — RHCSA & AWS Certified DevOps Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ I'm an RHCSA Certified Linux Administrator and AWS Certified Solutions Architect
 ### 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,ansible,terraform,git,github,bash,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,ansible,terraform,git,github,bash,python,mysql&perline=6"/>
 </p>
 
 **Linux Administration:** User & group management · File permissions & ACLs · LVM · Package management (yum/dnf) · systemd · SSH hardening · firewalld · SELinux · cron · troubleshooting & log analysis
@@ -73,41 +73,35 @@ I'm an RHCSA Certified Linux Administrator and AWS Certified Solutions Architect
 
 ### 💼 Project Showcase
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔹 InfraOps**
+#### 🚀 InfraOps
 Linux infrastructure monitoring platform — tracks server health metrics and surfaces alerts via a lightweight dashboard.
-`Python` `Flask` `SQLite` `Linux` `systemd`
-🔗 [View Repo](https://github.com/harshpawar2803/infraops)
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** Python, Flask, SQLite, Linux, systemd
 
-**🔹 CloudQueueX**
+🔗 [github.com/harshpawar2803/infraops](https://github.com/harshpawar2803/infraops)
+
+---
+
+#### ☁️ CloudQueueX
 Event-driven ticket processing platform on AWS using a decoupled, queue-based architecture.
-`EC2` `IAM` `SQS` `SNS` `DynamoDB` `CloudFormation`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** EC2, IAM, SQS, SNS, DynamoDB, CloudFormation
 
-**🔹 LAMP Server Setup**
+---
+
+#### 🐧 LAMP Server Setup
 End-to-end Apache + PHP + MariaDB configuration on RHEL, including firewall rules, SELinux contexts, and service hardening.
-`RHEL` `Apache` `PHP` `MariaDB`
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** RHEL, Apache, PHP, MariaDB
 
-**🔹 High-Availability Web Application**
+---
+
+#### ⚡ High-Availability Web Application
 Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an Elastic Load Balancer.
-`EC2` `Auto Scaling` `ELB`
 
-</td>
-</tr>
-</table>
+**Tech Stack:** EC2, Auto Scaling, ELB
+
+---
 
 > 📌 **Action item:** three projects above have no clickable repo. A recruiter can't verify a project they can't open — even a minimal public repo with a short README turns a claim into proof.
 
@@ -129,22 +123,19 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=harshpawar2803&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ### 📈 Contribution Activity
 
 <p align="center">
 <a href="https://github.com/harshpawar2803">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpawar2803&theme=tokyo-night" alt="Harsh's GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpawar2803&theme=tokyo-night&hide_border=true" alt="Harsh's GitHub activity graph"/>
 </a>
 </p>
 
@@ -161,7 +152,7 @@ push it, confirm it ran under the Actions tab (creates an "output" branch), THEN
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&margin-w=15&margin-h=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&no-frame=true&row=1&column=7"/>
 </a>
 </p>
 
