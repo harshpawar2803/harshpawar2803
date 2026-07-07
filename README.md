@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=180&section=header&text=Harsh%20Pawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RHCSA%20%7C%20AWS%20SAA%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18"/>
+
 <h1 align="center">Harsh Pawar</h1>
 <h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;DevOps & Cloud Engineer</h3>
 
@@ -149,10 +151,17 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 </a>
 </p>
 
-<!-- Contribution snake — requires a one-time GitHub Action (workflow file provided separately). Once the Action runs once, uncomment this:
+### 🐍 Contribution Snake
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/harshpawar2803/harshpawar2803/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
+<!--
+⚠️ This will only render once the snake.yml GitHub Action has run at least once in your repo.
+Steps: add snake.yml to .github/workflows/ in your harshpawar2803/harshpawar2803 repo → push it →
+check the Actions tab to confirm it ran → it creates an "output" branch with the SVG this <img> points to.
+Until then this will show as a broken image.
 -->
 
 <p align="center">
@@ -179,3 +188,5 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 
 <p align="center"><i>"Keep learning. Keep building. Keep growing." 🚀</i></p>
 <p align="center">⭐ If any of these projects are useful to you, a star is always appreciated ⭐</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:EE0000&height=120&section=footer"/>
