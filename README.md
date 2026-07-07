@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EE0000,100:FF9900&height=180&section=header&text=Harsh%20Pawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RHCSA%20%7C%20AWS%20SAA%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18"/>
 
 <h1 align="center">Harsh Pawar</h1>
-<h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;DevOps & Cloud Engineer</h3>
+<h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;Linux • AWS • DevOps Engineer</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=RHCSA+Certified+Linux+Administrator;AWS+Certified+Solutions+Architect;DevOps+%7C+Cloud+%7C+Automation+Engineer;Building+Reliable%2C+Scalable+Infrastructure" />
@@ -29,7 +29,7 @@
 
 ### 🧭 About Me
 
-I'm a Linux and Cloud engineer focused on building reliable, automated infrastructure. RHCSA-certified on the Linux side, AWS SAA-certified on the cloud side, and currently deep in hands-on DevOps tooling — Docker, Jenkins, Ansible, Kubernetes, and Terraform — to round out the full stack from bare-metal to CI/CD.
+I'm an RHCSA Certified Linux Administrator and AWS Certified Solutions Architect – Associate with hands-on experience in Linux administration, AWS Cloud, Docker, Jenkins, and infrastructure automation. I enjoy building production-style infrastructure projects that demonstrate monitoring, automation, CI/CD, and cloud deployment — and I'm currently expanding into Kubernetes, Terraform, and RHCE.
 
 - 🎓 MCA Graduate — MET Institute of Engineering, Nashik
 - 🏅 RHCSA — Red Hat Certified System Administrator
@@ -88,7 +88,6 @@ Linux infrastructure monitoring platform — tracks server health metrics and su
 **🔹 CloudQueueX**
 Event-driven ticket processing platform on AWS using a decoupled, queue-based architecture.
 `EC2` `IAM` `SQS` `SNS` `DynamoDB` `CloudFormation`
-🔗 *Add repo link*
 
 </td>
 </tr>
@@ -98,7 +97,6 @@ Event-driven ticket processing platform on AWS using a decoupled, queue-based ar
 **🔹 LAMP Server Setup**
 End-to-end Apache + PHP + MariaDB configuration on RHEL, including firewall rules, SELinux contexts, and service hardening.
 `RHEL` `Apache` `PHP` `MariaDB`
-🔗 *Add repo link*
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +104,6 @@ End-to-end Apache + PHP + MariaDB configuration on RHEL, including firewall rule
 **🔹 High-Availability Web Application**
 Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an Elastic Load Balancer.
 `EC2` `Auto Scaling` `ELB`
-🔗 *Add repo link*
 
 </td>
 </tr>
@@ -151,17 +148,15 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 </a>
 </p>
 
+<!--
+🐍 Contribution Snake — add snake.yml to .github/workflows/ in your harshpawar2803/harshpawar2803 repo,
+push it, confirm it ran under the Actions tab (creates an "output" branch), THEN uncomment this block:
+
 ### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/harshpawar2803/harshpawar2803/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
-<!--
-⚠️ This will only render once the snake.yml GitHub Action has run at least once in your repo.
-Steps: add snake.yml to .github/workflows/ in your harshpawar2803/harshpawar2803 repo → push it →
-check the Actions tab to confirm it ran → it creates an "output" branch with the SVG this <img> points to.
-Until then this will show as a broken image.
 -->
 
 <p align="center">
