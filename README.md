@@ -122,24 +122,16 @@ Apache, MariaDB/MySQL and PHP deployment on RHEL Linux.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight" alt="Harsh's GitHub Stats" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpawar2803&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpawar2803&theme=tokyonight" alt="Harsh's GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
 
 ## 🎯 2026 Goals
 
