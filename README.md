@@ -1,138 +1,147 @@
-<h1 align="center">Hi 👋, I'm Harsh Pawar</h1>
-
-<h3 align="center">
-RHCSA Certified Linux Administrator | AWS Certified Solutions Architect – Associate | DevOps & Cloud Engineer
-</h3>
+<h1 align="center">Harsh Pawar</h1>
+<h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;DevOps & Cloud Engineer</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=RHCSA+Certified+Linux+Administrator;AWS+Certified+Solutions+Architect;DevOps+Engineer;Infrastructure+Automation+%7C+CI%2FCD+%7C+Cloud;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=RHCSA+Certified+Linux+Administrator;AWS+Certified+Solutions+Architect;DevOps+%7C+Cloud+%7C+Automation+Engineer;Building+Reliable%2C+Scalable+Infrastructure" />
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshpawar2803&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Red%20Hat%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="./gitbanner.jpeg" alt="Harsh Pawar - RHCSA & AWS Certified DevOps Engineer" width="100%" />
+<img src="./gitbanner.jpeg" alt="Harsh Pawar — RHCSA & AWS Certified DevOps Engineer" width="100%" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&margin-w=15&margin-h=15"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=harshpawar2803&label=Profile%20Views&color=EE0000&style=for-the-badge"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/harshpawar28"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:harshpawar0328@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧭 About Me
+
+I'm a Linux and Cloud engineer focused on building reliable, automated infrastructure. RHCSA-certified on the Linux side, AWS SAA-certified on the cloud side, and currently deep in hands-on DevOps tooling — Docker, Jenkins, Ansible, Kubernetes, and Terraform — to round out the full stack from bare-metal to CI/CD.
 
 - 🎓 MCA Graduate — MET Institute of Engineering, Nashik
-- 🏅 RHCSA Certified Linux Administrator (Red Hat Certified System Administrator)
+- 🏅 RHCSA — Red Hat Certified System Administrator
 - ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
-- 🐧 Skilled in Linux system administration, shell scripting, and infrastructure troubleshooting
-- 🛠️ Building hands-on DevOps and Cloud projects with Docker, Jenkins, Ansible, Kubernetes, and Terraform
-- ⚙️ Focused on Infrastructure Automation, CI/CD pipelines, and Cloud Engineering
-- 📚 Continuously deepening my DevOps and cloud architecture skills
-- 💼 Open to **Linux Administrator**, **Cloud Engineer**, and **DevOps Engineer** roles
+- 🔧 Comfortable across the infra lifecycle: provisioning → configuration → deployment → monitoring
+- 💼 Open to **Linux Administrator**, **Cloud Engineer**, **AWS Engineer**, and **DevOps Engineer** roles
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| 🏅 RHCSA – Red Hat Certified System Administrator | Red Hat |
-| ☁️ AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
-| 🎓 AWS Academy Cloud Foundations | AWS Academy |
-| 🎓 AWS Academy Cloud Architecting | AWS Academy |
-
----
-
-## 🧰 Tech Stack
+### 📜 Certifications
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,git,github,bash,python,mysql,vscode"/>
+<img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20(SAA--C03)-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-RHEL-red?style=for-the-badge&logo=redhat"/>
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible"/>
-<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform"/>
-<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins"/>
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🔹 InfraOps
-Linux infrastructure monitoring platform built with Python, Flask, and SQLite — tracks server health metrics and surfaces alerts through a lightweight dashboard.
-
-**Stack:** Python · Flask · SQLite · Linux · Systemd · HTML · CSS
-🔗 [github.com/harshpawar2803/infraops](https://github.com/harshpawar2803/infraops)
-
-### 🔹 CloudQueueX
-AWS event-driven ticket processing platform built around a decoupled, serverless-friendly architecture.
-
-**Services used:** EC2 · IAM · SQS · SNS · DynamoDB · CloudFormation
-
-### 🔹 LAMP Server Setup
-End-to-end configuration of Apache, PHP, and MariaDB on RHEL, covering firewall rules, SELinux contexts, and service hardening.
-
-### 🔹 High-Availability Web Application
-Fault-tolerant web app architecture on AWS using Auto Scaling, an Elastic Load Balancer, and EC2 across multiple availability zones.
-
-<!--
-Add repo links for CloudQueueX, LAMP Server Setup, and the HA Web App below in this format
-so recruiters can click straight through to the code:
-
-🔗 https://github.com/harshpawar2803/repo-name
+<!-- If you have Credly / Red Hat verification links, add them like this — verified badges build the most trust with recruiters:
+[![Credly](https://img.shields.io/badge/Verify-AWS%20SAA%20Badge-FF9900?style=flat-square&logo=credly)](your-credly-link)
+[![Red Hat](https://img.shields.io/badge/Verify-RHCSA-EE0000?style=flat-square&logo=redhat)](your-redhat-verify-link)
 -->
 
 ---
 
-## 🛠️ Skills
+### 🧰 Tech Stack
 
-**Linux:** User & group management · File permissions · LVM · Package management · Systemd · SSH · Firewalld · SELinux · Cron jobs · Troubleshooting
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,ansible,terraform,git,github,bash,python,mysql"/>
+</p>
 
-**Cloud (AWS):** EC2 · VPC · IAM · S3 · RDS · CloudFormation
+**Linux Administration:** User & group management · File permissions & ACLs · LVM · Package management (yum/dnf) · systemd · SSH hardening · firewalld · SELinux · cron · troubleshooting & log analysis
 
-**DevOps:** Docker · Kubernetes · Jenkins · Git · GitHub · Ansible · Terraform
+**AWS / Cloud:** EC2 · VPC · IAM · S3 · RDS · CloudFormation · SQS/SNS · DynamoDB · Auto Scaling · Elastic Load Balancing
 
-**Programming:** Python · Bash · SQL
+**DevOps & Automation:** Docker · Kubernetes · Jenkins · Ansible · Terraform · Git/GitHub · CI/CD pipeline design
+
+**Scripting:** Python · Bash · SQL
 
 ---
 
-## 🎯 Career Goals
+### 💼 Project Showcase
 
-- ✅ RHCSA Certified
-- ✅ AWS Certified Solutions Architect – Associate
-- 🎯 Complete RHCE (Red Hat Certified Engineer)
-- 🎯 Master Kubernetes for container orchestration
-- 🎯 Master Terraform for Infrastructure as Code
-- 🎯 Build enterprise-grade DevOps CI/CD pipelines
-- 🎯 Land a role as a Cloud & DevOps Engineer
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 InfraOps**
+Linux infrastructure monitoring platform — tracks server health metrics and surfaces alerts via a lightweight dashboard.
+`Python` `Flask` `SQLite` `Linux` `systemd`
+🔗 [View Repo](https://github.com/harshpawar2803/infraops)
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 CloudQueueX**
+Event-driven ticket processing platform on AWS using a decoupled, queue-based architecture.
+`EC2` `IAM` `SQS` `SNS` `DynamoDB` `CloudFormation`
+🔗 *Add repo link*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 LAMP Server Setup**
+End-to-end Apache + PHP + MariaDB configuration on RHEL, including firewall rules, SELinux contexts, and service hardening.
+`RHEL` `Apache` `PHP` `MariaDB`
+🔗 *Add repo link*
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 High-Availability Web Application**
+Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an Elastic Load Balancer.
+`EC2` `Auto Scaling` `ELB`
+🔗 *Add repo link*
+
+</td>
+</tr>
+</table>
+
+> 📌 **Action item:** three projects above have no clickable repo. A recruiter can't verify a project they can't open — even a minimal public repo with a short README turns a claim into proof.
 
 ---
 
-## 📊 GitHub Stats
+### 🗺️ DevOps Learning Roadmap
+
+- [x] Linux Administration (RHCSA)
+- [x] AWS Cloud Fundamentals (SAA-C03)
+- [x] Containerization — Docker
+- [ ] Container Orchestration — Kubernetes (in progress)
+- [ ] Infrastructure as Code — Terraform (in progress)
+- [ ] CI/CD Pipelines — Jenkins (building projects)
+- [ ] Red Hat Certified Engineer (RHCE) — planned
+- [ ] Enterprise-scale DevOps project (end-to-end pipeline)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshpawar2803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=harshpawar2803&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=harshpawar2803&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpawar2803&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 GitHub Activity
+### 📈 Contribution Activity
 
 <p align="center">
 <a href="https://github.com/harshpawar2803">
@@ -140,30 +149,33 @@ so recruiters can click straight through to the code:
 </a>
 </p>
 
----
-
-## 🌐 Connect With Me
-
+<!-- Contribution snake — requires a one-time GitHub Action (workflow file provided separately). Once the Action runs once, uncomment this:
 <p align="center">
-<a href="https://www.linkedin.com/in/harshpawar28">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-&nbsp;
-<a href="https://github.com/harshpawar2803">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
+<img src="https://raw.githubusercontent.com/harshpawar2803/harshpawar2803/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+-->
 
 <p align="center">
-📧 harshpawar0328@gmail.com &nbsp;|&nbsp; 📱 +91 9096944522 &nbsp;|&nbsp; 📍 Nashik, Maharashtra, India
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=harshpawar2803&theme=onedark&margin-w=15&margin-h=15&row=1"/>
+</a>
 </p>
 
 ---
 
+### 🌐 Connect
+
 <p align="center">
-<i>"Keep Learning. Keep Building. Keep Growing." 🚀</i>
+<a href="https://www.linkedin.com/in/harshpawar28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/harshpawar2803"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:harshpawar0328@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-⭐ If you find my repositories useful, consider giving them a star ⭐
+📍 Nashik, Maharashtra, India &nbsp;|&nbsp; 📱 +91 9096944522
 </p>
+
+---
+
+<p align="center"><i>"Keep learning. Keep building. Keep growing." 🚀</i></p>
+<p align="center">⭐ If any of these projects are useful to you, a star is always appreciated ⭐</p>
