@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Ganesh Pawar</h1>
+<h1 align="center">Hi 👋, I'm Harsh Pawar </h1>
 
 <h3 align="center">
 RHCSA Certified Linux Administrator | AWS Certified Solutions Architect – Associate | DevOps & Cloud Engineer | Open to Work
@@ -15,7 +15,7 @@ RHCSA Certified Linux Administrator | AWS Certified Solutions Architect – Asso
 </p>
 
 <p align="center">
-<img src="banner.png" alt="Harsh Banner"/>
+<img src="gitbanner.jpeg" alt="Harsh Banner"/>
 </p>
 
 <p align="center">
