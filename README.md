@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:EE0000,100:FF9900&height=150&section=header"/>
-
 <h1 align="center">Harsh Pawar</h1>
 <h3 align="center">RHCSA Certified Linux Administrator&nbsp;|&nbsp;AWS Certified Solutions Architect – Associate&nbsp;|&nbsp;Linux • AWS • DevOps Engineer</h3>
 
@@ -61,13 +59,12 @@ I'm an RHCSA Certified Linux Administrator and AWS Certified Solutions Architect
 <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,ansible,terraform,git,github,bash,python,mysql&perline=6"/>
 </p>
 
-**Linux Administration:** User & group management · File permissions & ACLs · LVM · Package management (yum/dnf) · systemd · SSH hardening · firewalld · SELinux · cron · troubleshooting & log analysis
-
-**AWS / Cloud:** EC2 · VPC · IAM · S3 · RDS · CloudFormation · SQS/SNS · DynamoDB · Auto Scaling · Elastic Load Balancing
-
-**DevOps & Automation:** Docker · Kubernetes · Jenkins · Ansible · Terraform · Git/GitHub · CI/CD pipeline design
-
-**Scripting:** Python · Bash · SQL
+| Category | Technologies |
+|---|---|
+| **Linux Administration** | User & group management, file permissions & ACLs, LVM, package management (yum/dnf), systemd, SSH hardening, firewalld, SELinux, cron, troubleshooting & log analysis |
+| **AWS / Cloud** | EC2, VPC, IAM, S3, RDS, CloudFormation, SQS/SNS, DynamoDB, Auto Scaling, Elastic Load Balancing |
+| **DevOps & Automation** | Docker, Kubernetes, Jenkins, Ansible, Terraform, Git/GitHub, CI/CD pipeline design |
+| **Scripting** | Python, Bash, SQL |
 
 ---
 
@@ -103,11 +100,13 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 
 ---
 
-> 📌 **Action item:** three projects above have no clickable repo. A recruiter can't verify a project they can't open — even a minimal public repo with a short README turns a claim into proof.
-
 ---
 
 ### 🗺️ DevOps Learning Roadmap
+
+<details>
+<summary><b>✅ RHCSA & AWS SAA certified — click to see full roadmap</b></summary>
+<br>
 
 - [x] Linux Administration (RHCSA)
 - [x] AWS Cloud Fundamentals (SAA-C03)
@@ -117,6 +116,8 @@ Fault-tolerant AWS architecture across multiple AZs using Auto Scaling and an El
 - [ ] CI/CD Pipelines — Jenkins (building projects)
 - [ ] Red Hat Certified Engineer (RHCE) — planned
 - [ ] Enterprise-scale DevOps project (end-to-end pipeline)
+
+</details>
 
 ---
 
@@ -175,4 +176,4 @@ push it, confirm it ran under the Actions tab (creates an "output" branch), THEN
 <p align="center"><i>"Keep learning. Keep building. Keep growing." 🚀</i></p>
 <p align="center">⭐ If any of these projects are useful to you, a star is always appreciated ⭐</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:EE0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:FF9900,100:EE0000&height=120&section=footer"/>
