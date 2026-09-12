@@ -3,7 +3,7 @@
 <h1 align="center">Harsh Pawar</h1>
 
 <h3 align="center">
-DevOps | Cloud Engineer | RHCSA | RHCE | AWS Certified Solutions Architect – Associate
+DevOps and Cloud Engineer | RHCSA | RHCE | AWS Certified Solutions Architect – Associate
 </h3>
 
 <p align="center">
